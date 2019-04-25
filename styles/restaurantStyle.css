@@ -1,0 +1,72 @@
+/*
+Creator: Derek Moore
+Date Created: 3/10/19
+Date Last Modified: 3/10/19
+*/
+
+
+@import url('https://fonts.googleapis.com/css?family=Exo+2');
+
+body {
+	background-color: #171717;
+	font-family: 'Exo 2', sans-serif;
+	color: white;
+	max-width: 1281px;
+	margin: 0 auto;
+	padding: 5px;
+	
+	
+	
+}
+
+.jumbotron {
+	background-color: #47b7b6;
+	padding: 3px 0px 20px 3px;
+	border-radius: 0px;
+}
+
+nav {
+	border-top: thin #65c3ba;
+	border-bottom: thin #65c3ba;
+	padding-bottom: 12px;
+	
+}
+
+.btn {
+	background-color: #65c3ba;
+	color: black;
+	margin: 4px;
+}
+
+.btn:visited {
+	color: white;
+}
+
+.btn:hover {
+	font-weight: bold;
+	
+}
+
+#carousel {
+	max-height: 400px;
+}
+
+header, footer {
+	background-color: #47b7b6;
+	color: white;
+}
+
+footer {
+	padding-left: 5px;
+	margin-top: 5px;
+	
+}
+
+.row {
+	padding-top: 12px;
+	
+}
+
+input[type="text"], input[type="email"] {
+	font-family: Times;
+}
